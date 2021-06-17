@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Professional webpage, Bruno Julia Diaz" />
+	<meta name="keywords" content="physics, nuclear, atomic, BEC, fractional quantum Hall, research, recerca, investigacion, Barcelona, Universitat" />
+	<meta name="author" content="Bruno Julia-Diaz" />
+	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz|Droid+Sans' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" type="text/css" media="all" href="inland.css" />
+	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
+	<title>Bruno Julia Diaz place on the web!</title>
+</head>
+
+<body>
+<div id="wrapper960" class="clearfix">
+	<div id="header" class="clearfix">
+		<div id="sitetitle" class="clearfix">
+			<h1><a href="index.html">Mecànica quantica aplicada</a></h1>
+		</div>
+
+		<div id="nav" class="clearfix">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">Brief bio</a></li>
+				<li><a href="projects.html">Projects</a></li>
+				<li><a href="teach.html">Teaching</a></li>
+				<li><a href="pub.html">Publications</a></li>
+				<li><a href="gallery.html">Gallery</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="slider-wrapper">
+		<div id="slider" class="nivoSlider">
+			<img src="images/mqabanner.jpg" alt="" />
+			<img src="images/mqabanner2.jpg" alt="" />
+		</div>
+	</div>
+
+	<div id="content" class="clearfix shadow">
+		<div id="sidebar" class="left">
+			<div class="inner">
+<h3>Structure</h3> 
+Master on Advanced Physics<br>
+Theory: Prof. J. Tarón<br>
+10 hours of computer work<br> 
+Coding from scratch<br>
+
+				<h3>Related material</h3>
+				<p>
+A very rudimentary version of the notes which drove the lectures 
+can be found <a href="images/numerics.pdf">here </a>.
+</p>
+			</div>
+		</div>
+
+		<div id="main" class="right">
+			<h2>Applied quantum mechanics</h2>
+			<p>
+The 10 hours will be devoted to build from scratch computer programs to solve single particle
+quantum mechanical problems. The main objective is that the student acquires minimal techniques 
+to confront the solution of simple quantum mechanical numerical problems.
+
+</p>
+
+<h3>Lecture 1</h3>
+Solution of the time independent Schrödinger equation in 1D. We will use a simple 
+tridiagonal discretization of the laplacian operator. The accuracy of the method will 
+be explored. The main focus will be on obtaining the eigenstates and eigenvalues of
+the 1D harmonic oscillator. (Sample from H. Albalad)
+ <p> <img src="images/lect1.jpg" width="400px;"></p>
+<h3>Lecture 2</h3> 
+Time evolution of a wave packet using the eigenbasis computed in Lecture 1. (Sample from P. Sopeña)
+ <p> <img src="images/lect2.jpg" width="400px;"></p>
+<h3>Lecture 3</h3> 
+Solution of the time dependent Schrödinger equation using a Crank-Nicolson scheme 
+together with the tridiagonal Hamiltonian of lecture 1. No need for a confining potential. 
+
+<h3>Lecture 4</h3> 
+Application of the code developed in 3, e.g. a) broadening of a gaussian wave packet 
+in free space, b) Gaussian wave packet smashed into a barrier, c) time dependent Hamiltonians, 
+d) solutions to the Gross-Pitaevskii equation by imaginary time evolution.
+
+<h3>Lecture 5</h3> 
+Bright solitons. Study of the behavior of bright solitons using a variant of the code
+developed in 3. (images from M. Checa and D. Lopez)
+   <p> <img src="images/animation13.gif" width="400px;"></p>
+<p><img src="images/half.gif" width="400px;"></p> 
+
+		</div>
+	</div>
+
+	<div id="footer" class="shadow">
+		<p>&copy; 2015 Bruno Julia Diaz | Template design by <a href="http://andreasviklund.com/">andreasviklund.com</a>
+</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+	$(window).load(function() {
+		$('#slider').nivoSlider();
+	});
+</script>
+</body>
+</html>

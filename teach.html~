@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Professional webpage, Bruno Julia Diaz" />
+	<meta name="keywords" content="physics, nuclear, atomic, BEC, fractional quantum Hall, research, recerca, investigacion, Barcelona, Universitat" />
+	<meta name="author" content="Bruno Julia-Diaz" />
+	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz|Droid+Sans' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" type="text/css" media="all" href="inland.css" />
+	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
+	<title>Bruno Julia Diaz place on the web!</title>
+</head>
+
+<body>
+<div id="wrapper960" class="clearfix">
+	<div id="header" class="clearfix">
+		<div id="sitetitle" class="clearfix">
+			<h1><a href="index.html">Teaching</a></h1>
+		</div>
+
+		<div id="nav" class="clearfix">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">Brief bio</a></li>
+				<li><a  href="projects.html">Projects</a></li>
+				<li><a  class="current"href="teach.html">Teaching</a></li>
+				<li><a href="pub.html">Publications</a></li>
+				<li><a href="gallery.html">Gallery</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="slider-wrapper">
+		<div id="slider" class="nivoSlider">
+			<img src="images/sliderba.jpg" alt="" />
+			<img src="images/slider1.jpg" alt="" />
+			<img src="images/slider2.jpg" alt="" />
+			<img src="images/slider3.jpg" alt="" />
+			<img src="images/slider4.jpg" alt="" />
+		</div>
+	</div>
+
+	<div id="content" class="clearfix shadow">
+		<div id="trio1">
+			<div class="inner">
+				<h2>Supervision</h2>
+<h3>PhD</h3>
+<p><a href="http://users.icfo.es/Tobias.Grass/">Dr. Tobias Grass</a> 
+(with <a href="https://www.icfo.es/research/people_ficha.php?id_group=23&people_id=25">M. Lewenstein</a>)
+2014- postdoc at ICFO 
+</p>
+
+<p><a href="http://www.ecm.ub.es/~marina">Dr. Marina Mele-Messeguer </a>
+(with <a href="https://www.ecm.ub.es/~artur">A. Polls</a>)
+2014- <a href="http://www.marinamele.com/">InboundCycle</a> 
+</p>
+<p><a href="http://www.ecm.ub.es/~axel">Dr. Axel Perez-Obiol</a>
+(with <a href="https://www.ecm.ub.es/~assum">A. Parreño</a>)
+2014-2017<a href="http://rafael.ujf.cas.cz/members/axel.html"> postdoc at REZ</a> (Czech Republic)
+2017-<a href="https://www.kochi-tech.ac.jp/profile/ja/axel-perez-obiol.html">postoc Kochi</a> (Japan)
+</p>
+<h3>Master thesis</h3>
+<p>Mr. Alejandro Romero(Feb 2016-) (with Artur Polls)
+<p>Mr. Victor Camí (Feb 2016-) (with Artur Polls)
+<p>Mr. David López (Feb 2015-) (with Artur Polls)
+<p>Mr. Gerard Pelegrí (Feb 2015-) (with Artur Polls)
+<p>Mr. Pere Mujal (Feb 2015-) (with Artur Polls)
+<p>Mr. David Raventòs (Feb 2014-)
+(with <a href="http://users.icfo.es/Tobias.Grass">Dr. T. Grass</a>)</p>
+Submitted to <a href="http://arxiv.org/abs/1410.7280">PRA</a>
+
+<h3>Graduate Thesis (Treball de Grau)</h3>
+<p>Mr. Axel López Gandía (Feb-Jun 2014) 
+"Properties of BEC in a mean-field description"
+<a href="pub_files/TFG_final_alopez.pdf">PDF</a>
+</p>
+<p>Mr. David López (together with A. Polls) (Feb-Jun 2014) 
+"Spectral functions and correlations in a BJJ"
+<a href="pub_files/TFG-DLN.pdf">PDF</a>
+</p>
+<h3>Treball d'empresa</h3>
+<p>Mr. Albert Escrivà Mañas (together with M. Guilleumas) (Feb-Jun 2014) 
+"Estudi de la condensació de Bose-Einstein"
+<a href="pub_files/TREBALL-EMPRESA.TEMA1.pdf">PDF</a>
+</p>
+			</div>
+		</div>
+
+		<div id="trio2">
+			<div class="inner">
+<h2><a href="mqa.html">Mecànica cuàntica aplicada</a></h2>
+<p> I was teaching the numerical part of the subject. The theory 
+part is imparted by Prof. J. Taron. Click <a href="mqa.html">here</a> for 
+brief description of the subject.</p> 
+
+
+			</div>
+		</div>
+
+		<div id="trio3">
+			<div class="inner">
+<h2>Analisi Matematica</h2>
+	<p>
+I was teaching first year calculus some time ago. We produced a textbook, 
+which we later translated to catalan. Feel free to send comments/ammendments
+about it.
+<h4>In catalan by J. Grande, with M. Guilleumas (2011)</h4>
+<a href="http://www.publicacions.ub.edu/ficha.aspx?cod=07559"><img
+ style="width: 150px; height: 206px;" alt="" src="images/librocat.png"
+ align="left"></a>
+
+<h4>Textbook with M. Guilleumas (2008)</h4>
+<a href="http://www.publicacions.ub.es/ficha.asp?codi=07017"><img
+ style="width: 150px; height: 206px;" alt="" src="images/portana.jpg"
+ align="left"></a>
+</p>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="footer" class="shadow">
+		<p>&copy; 2013 Bruno Julia Diaz 
+</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+	$(window).load(function() {
+		$('#slider').nivoSlider();
+	});
+</script>
+</body>
+</html>
