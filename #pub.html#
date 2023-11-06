@@ -1,0 +1,1454 @@
+<!DOCTYPE html>
+<html><head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Your description goes here" />
+	<meta name="keywords" content="your,keywords,goes,here" />
+	<meta name="author" content="Your Name" />
+	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz|Droid+Sans' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" type="text/css" media="all" href="inland.css" />
+	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
+	<title>Bruno Julia-Diaz place on the web!</title>
+</head>
+
+<body>
+<div id="wrapper960" class="clearfix">
+	<div id="header" class="clearfix">
+		<div id="sitetitle" class="clearfix">
+			<h1><a href="index.html">Publications</a></h1>
+		</div>
+
+		<div id="nav" class="clearfix">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">Brief bio</a></li>
+				<li><a href="superv.html">Supervision</a></li>
+				<li><a href="projects.html">Projects</a></li>
+				<li><a href="teach.html">Teaching</a></li>
+				<li><a  class="current" href="pub.html">Publications</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="header-image">
+		<img src="images/slider4phys.jpg" alt="">
+	</div>
+
+	<div id="content" class="clearfix shadow">
+		<div id="sidebar" class="right">
+			<div class="inner">
+				<h2>Outreach</h2>
+During the <a href="www.icap2018.eu">ICAP 2018</a> conference, we had the great pleasure 
+of moderating a conversation with a Nobel Prize Panel. Here is the video:
+<iframe width="400" height="225" src="https://www.youtube.com/embed/DNhmYkTW_jI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				<p>
+				<h2>Popularisation books</h2>
+
+"Superconductividad y Superfluidez" colection "Un paseo por el cosmos", RBA (2017), with F. F. Belmonte
+</p>
+
+				<p>
+"El frío absoluto", colection "Un paseo por el cosmos", RBA (2016), 
+<img src="images/ilfre.jpg" border="0" width="150px;">
+</p>
+				<p>
+<a href="images/HAP004MIL_20070424CO.pdf"><font color="#000000"><img src="images/mil1s.jpg" name="graphics2" align="bottom" border="1" height="217" width="153"></font></a><a href="images/HAP005MIL_20070424CO.pdf"><font color="#000000"><img src="images/mil2s.jpg" name="graphics3" align="bottom" border="1" height="217" width="153"></font></a>
+</p>
+				<h2>Textbooks</h2>
+				<p>
+</p><h4>In catalan by J. Grande, with M. Guilleumas (2011)</h4>
+<a href="http://www.publicacions.ub.edu/ficha.aspx?cod=07559"><img style="width: 150px; height: 206px;" alt="" src="images/librocat.png" align="left"></a>
+<p></p>
+<h4>Textbook with M. Guilleumas (2008)</h4>
+<a href="http://www.publicacions.ub.es/ficha.asp?codi=07017"><img style="width: 150px; height: 206px;" alt="" src="images/portana.jpg" align="left"></a>
+<p></p>
+			</div>
+		</div>
+
+		<div id="main" class="left">
+			<h2>Publications in refereed journals</h2>
+
+<h3><a href="http://arxiv.org/find/all/1/OR+au:julia_diaz+all:+EXACT+julia%5fdiaz/0/1/0/all/0/1">Papers
+in ARXIV</a> | 
+<a href="http://scholar.google.es/citations?user=-Rglua8AAAAJ&amp;hl=ca">Google scholar</a></h3>
+      
+			<p>
+</p><table style="width: 600px;" class="sample">
+			  <tbody>
+
+<tr>
+  <td style="vertical-align: top;">
+<h3></h3>
+      </td>
+
+      <td style="vertical-align: top;">
+<h4>
+Few distinguishable particles with an impurity in a one-dimensional harmonic trap
+<br>
+Abel Rojo-Francàs, Felipe Isaule, Bruno Juliá-Díaz
+<br>
+	<a href="https://arxiv.org/pdf/2303.17943.pdf">arxiv  (2023) </a></h4>
+<br>
+</td>
+    </tr>
+<tr>
+  <td style="vertical-align: top;">
+<h3></h3>
+      </td>
+
+      <td style="vertical-align: top;">
+<h4>
+Nuclear shell-model simulation in digital quantum computers
+
+<br>
+A Pérez-Obiol, AM Romero, J Menéndez, A Rios, A García-Sáez, B Juliá-Díaz
+<br>
+	<a href="https://arxiv.org/pdf/2302.03641.pdf">arxiv 2302.03641 (2023) </a></h4>
+<br>
+</td>
+    </tr>
+<tr>
+  <td style="vertical-align: top;">
+<h3></h3>
+      </td>
+
+      <td style="vertical-align: top;">
+<h4>
+Superexchange liquefaction of strongly correlated lattice dipolar bosons
+
+<br>
+I Morera, R Ołdziejewski, GE Astrakharchik, B Juliá-Díaz
+<br>
+	<a href="https://doi-org.sire.ub.edu/10.1103/PhysRevLett.130.023602">Physical Review Letters 130, 023602 (2023) </a></h4>
+<br>
+</td>
+    </tr>
+<tr>
+  <td style="vertical-align: top;">
+<h3>2022</h3>
+      </td>
+
+      <td style="vertical-align: top;">
+<h4>
+Direct diagonalization method for a few particles trapped in harmonic potentials
+
+<br>
+Abel Rojo-Francàs, Felipe Isaule, and Bruno Juliá-Díaz
+<br>
+	<a href="https://doi.org/10.1103/PhysRevA.105.063326"> Phys. Rev. A 105, 063326 (2022) </a></h4>
+<br>
+</td>
+    </tr>
+<tr>
+  <td style="vertical-align: top;">
+<h3></h3>
+<img src="images/png2103.16499.png" border="0" width="100px;">
+      </td>
+
+      <td style="vertical-align: top;">
+<h4>
+Quantum liquids and droplets with low-energy interactions in one dimension
+<br>
+l+/
+´Ivan Morera, Bruno Juliá-Díaz, Manuel Valiente
+<br>
+	<a href="https://doi-org.sire.ub.edu/10.1103/PhysRevResearch.4.L042024"> Phys. Rev. Research Physical Review Research 4 (4), L042024 (2022) </a></h4>
+<br>
+</td>
+    </tr>
+
+<tr>
+  <td style="vertical-align: top;">
+<h3></h3>
+<img src="images/png2102.02072.png" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Renormalization-group study of Bose polarons
+<br>
+F Isaule, I Morera, P Massignan, B Juliá-Díaz
+<br>
+	<a href="https://doi.org/10.1103/PhysRevA.104.023317">Physical Review A º04 (2), 023317 (2021)</a></h4>
+<br>
+</td>
+    </tr>
+<tr>
+  <td style="vertical-align: top;">
+<h3></h3>
+
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Functional renormalization for repulsive Bose-Bose mixtures at zero temperature
+<br>
+Felipe Isaule, Ivan Morera, Artur Polls, Bruno Juliá-Díaz, 
+<br>
+	<a href="http://arxiv.org/abs/2011.00487"> Phys. Rev. A 103, 013318 (2020) </a></h4>
+<br>
+</td>
+    </tr>
+<tr>
+  <td style="vertical-align: top;">
+<h3></h3>
+
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Supervised learning of few dirty bosons with variable particle number
+<br>
+Pere Mujal, Àlex Martínez Miguel, Artur Polls, Bruno Juliá-Díaz, Sebastiano Pilati, 
+<br>
+	<a href="http://arxiv.org/abs/2010.03875"> SciPost Phys. 10, 073 (2021). </a></h4>
+<br>
+</td>
+    </tr>
+ <tr>
+  <td style="vertical-align: top;">
+<h3>2021</h3>
+
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Universal dimerized quantum droplets in a one-dimensional lattice
+<br>
+Ivan Morera, Grigori E. Astrakharchik, A. Polls, B. Juliá-Díaz, 
+<br>
+	<a href="http://arxiv.org/abs/2007.01786"> Phys. Rev. Lett. 126, 023001 (2021) </a></h4>
+	<small>
+Mentioned in <a href="https://phys.org/news/2021-01-physicists-theory-dimensional-quantum-liquids.html">Phys.org</a><br>
+Press release from <a href="http://icc.ub.edu/news/636">ICCUB </a>, in 
+<a href="https://quantum-cat.cat/new-quantum-droplets/">QuantumCat </a> 
+</small>
+<br>
+</td>
+    </tr>
+ <tr>
+  <td style="vertical-align: top;">
+<h3></h3>
+
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+From few to many bosons inside the unitary window: a transition between universal to non-universal behavior
+<br>
+A. Kievsky, A. Polls, B. Juliá-Díaz, N. K. Timofeyuk, M. Gattobigio
+<br>
+	<a href="http://arxiv.org/abs/2006.09758"> Phys. Rev. A 102, 063320 (2020) </a></h4>
+<br>
+</td>
+    </tr>
+
+     <tr>
+  <td style="vertical-align: top;">
+<h3></h3>
+
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Static and dynamic properties of a few spin 1/2 interacting fermions trapped in an harmonic potential
+<br>
+Abel Rojo-Francàs, Artur Polls, Bruno Juliá-Díaz
+<br>
+	<a href="https://www.mdpi.com/2227-7390/8/7/1196"> Mathematics 2020, 8(7), 1196 </a></h4>
+<br>
+</td>
+    </tr>
+
+			    <tr>
+  <td style="vertical-align: top;">
+<h3></h3>
+
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Fractionally quantized angular momentum of impurities in Laughlin liquids
+<br>
+Tobias Grass, Bruno Julia Diaz, Niccolò BAldelli, Uto Bhattacharya, Maciej Lewenstein
+<br>
+	<a href="https://doi.org/10.1103/PhysRevLett.125.136801"> Phys. Rev. Letts. 125, 136801 (2020) </a></h4>
+<br>
+</td>
+    </tr>
+
+<tr>
+  <td style="vertical-align: top;">
+<h3></h3>
+
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Spin-orbit coupled bosons interacting in a two-dimensional harmonic trap
+<br>
+Pere Mujal, Artur Polls,  Bruno Juliá-Díaz, 
+<br>
+	<a href="http://arxiv.org/abs/1907.13355">Phys. Rev. A 101, 043619 (2020) </a></h4>
+<br>
+</td>
+    </tr>
+
+<tr>
+      <td style="vertical-align: top;">
+<h3>  </h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Quantum droplets of bosonic mixtures in a one-dimensional optical lattice
+<br>
+Ivan Morera, Grigori E. Astrakharchik, Artur Polls, Bruno Juliá-Díaz
+<br>
+	<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.022008">Phys. Rev. Research 2, 022008 (R) (2020)</a></h4>
+<br>
+</td>
+    </tr>
+<tr>
+      <td style="vertical-align: top;">
+<h3></h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Orbital angular momentum dynamics of Bose-Einstein condensates trapped in two stacked rings
+<br>
+Eulàlia Nicolau, Jordi Mompart, Bruno Juliá-Díaz, Verònica Ahufinger
+<br>
+	<a href="https://doi.org/10.1103/PhysRevA.102.023331">Phys. Rev. A 102, 023331, (2020)</a></h4>
+<br>
+</td>
+    </tr>
+
+<tr>
+  <td style="vertical-align: top;">
+<img src="images/nonrel19.png" border="0" width="150px;">
+<h3></h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Entanglement entropy in low-energy field theories at a finite chemical potential
+
+<br>
+Ivan Morera, Irénée, Frerot, Artur Polls, Bruno Juliá-Díaz, 
+<br>
+	<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033016">Phys. Rev. Research 2, 033016 (2020) </a></h4>
+<br>
+</td>
+    </tr>
+
+
+
+<tr>
+  <td style="vertical-align: top;">
+<h3>2020</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+The Hellmann-Feynman theorem at finite temperature
+<br>
+Marina Pons, Bruno Juliá-Díaz, Arnau Rios, Isaac Vidaña, Artur Polls
+<br>
+	<a href="https://doi.org/10.1119/10.0001233">American Journal of Physics 88, 503 (2020)</a></h4>
+<br>
+</td>
+    </tr>
+<tr>
+  <td style="vertical-align: top;">
+<h3></h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Tunneling vortex dynamics in linearly coupled Bose-Hubbard rings
+<br>
+Albert Escrivà, Antonio Muñoz Mateo, Montserrat Guilleumas, and Bruno Juliá-Díaz
+<br>
+	<a href="http://arxiv.org/abs/1908.01353">Phys. Rev. A 100, 063621 (2019) </a></h4>
+<br>
+</td>
+    </tr>
+
+<tr>
+  <td style="vertical-align: top;">
+<h3></h3>
+<img src="images/local19.png" border="0" width="150px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Anderson localization of few interacting bosons in a continuum with speckle disorder
+<br>
+Pere Mujal, Artur Polls, Sebastiano Pilati, Bruno Juliá-Díaz, 
+<br>
+	<a href="http://arxiv.org/abs/1903.03373">Phys. Rev. A 100, 013603 (2019) </a></h4>
+<br>
+</td>
+    </tr>
+
+
+<tr>
+  <td style="vertical-align: top;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Entanglement structure of the two-component Bose-Hubbard model as a 
+quantum simulator fo a Heisenberg chain
+<br>
+Ivan Morera Artur Polls, Bruno Juliá-Díaz, 
+<br>
+	<a href="https://www.nature.com/articles/s41598-019-45737-4">Scientific Reports 9, 9424 (2019) </a></h4>
+<br>
+</td>
+    </tr
+
+<tr>
+      <td style="vertical-align: top;">
+<h3>2019</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Dynamic structure function of two interacting atoms in 1D
+<br>
+David Ledesma, Alejandro Romero-Ros, Artur Polls, Bruno Juliá-Díaz, 
+<br>
+	<a href="http://arxiv.org/abs/1811.01790">EPL 127 (2019) 56001</a></h4>
+<br>
+</td>
+    </tr>
+
+
+
+<tr>
+      <td style="vertical-align: top;">
+<img src="images/" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Static properties of two connected Bose-Hubbard rings
+<br>
+ Albert Escrivà, Bruno Juliá-Díaz, Montserrat Guilleumas
+<br>
+	<a href="http://arxiv.org/abs/1807.03838">arxiv </a></h4>
+<br>
+</td>
+    </tr
+
+
+
+
+<tr>
+      <td style="vertical-align: top;">
+<img src="images/semiapp.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Semiclassical approach to finite temperature quantum annealing with trapped ions
+<br>
+David Raventós, Tobias Graß, Bruno Juliá-Díaz, Maciej Lewenstein
+<br>
+	<a href="http://arxiv.org/abs/1802.06397">Phys. Rev. A 97, 052310 (2018) </a></h4>
+<br>
+</td>
+    </tr>
+
+<tr>
+      <td style="vertical-align: top;">
+<img src="images/" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Creation of entangled atomic states by an analogue of the Dynamical Casimir Effect
+<br>
+K. Lange, J. Peise, B. Lücke, T. Gruber, A. Sala, A. Polls, W. Ertmer, B. Juliá-Díaz, L. Santos, C. Klempt
+<br>
+	<a href="http://arxiv.org/abs/1805.02560">New. J. of Phys. 20, 103017 (2018)  </a></h4>
+<br>
+</td>
+    </tr>
+
+
+<tr>
+      <td style="vertical-align: top;">
+<img src="images/fermiprop.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Fermionic properties of two interacting bosons in a two-dimensional harmonic trap
+<br>
+Pere Mujal, Artur Polls, Bruno Juliá-Díaz
+<br>
+	<a href="http://arxiv.org/abs/1801.08435">Condens. Matter 2018, 3(1), 9 (2018)</a></h4>
+<br>
+</td>
+    </tr>
+
+<tr>
+      <td style="vertical-align: top;">
+<h3>2018</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Dark-dark-soliton dynamics in two density-coupled Bose-Einstein condensates
+<br>
+I. Morera, A. Muñoz Mateo, A. Polls, B. Juliá-Díaz<br>
+	<a href="http://arxiv.org/abs/1801.00309">	Phys. Rev. A 97, 043621 (2018)</a></h4>
+<br>
+</td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/rav14.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Cold bosons in optical lattices: a tutorial for exact diagonalisation
+D. Raventos, T.Grass, B. Julia-Diaz<br>
+	<a href="http://arxiv.org/abs/1410.7280">
+ J. Phys. B: At. Mol. Opt. Phys. 50 (2017) 113001
+</a></h4>
+</td>
+    </tr>
+
+
+ <tr>
+      <td style="vertical-align: top;">
+<img src="images/satu.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Saturation properties of helium drops from a Leading Order description
+<br>
+A. Kievsky, A. Polls, B. Juliá-Díaz, N. K. Timofeyuk<br>
+	<a href="http://arxiv.org/abs/1707.05628">Phys. Rev. A 96, 040501 (2017)</a></h4>
+<br>
+</td>
+    </tr>
+
+
+ <tr>
+      <td style="vertical-align: top;">
+<h3>2017</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Quantum correlations and degeneracy of identical bosons in a 2D harmonic tr
+<br>
+Pere Mujal, Enric Sarlé, Artur Polls, Bruno Juliá-Díaz<br>
+	<a href="http://arxiv.org/abs/1707.04166">Phys. Rev. A 96, 043614 (2017)</a></h4>
+<br>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/shortspin.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Shortcut to adiabaticity in spinor condensates 
+<br>
+Arnau Sala, David López Núñez, Joan Martorell, Luigi De Sarlo, Tilman Zibold, Fabrice Gerbier, Artur Polls, Bruno Juliá-Díaz<br>
+	<a href="http://arxiv.org/abs/1607.04119">Phys. Rev. A 94, 043623 (2016)</a></h4>
+<br>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/ions2.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Quantum annealing for the number-partitioning problem using a tunable spin glass of ions
+<br>
+Tobias Graß, David Raventós, Bruno Juliá-Díaz, Christian Gogolin, Maciej Lewenstein<br>
+	<a href="http://www.nature.com/ncomms/2016/160527/ncomms11524/full/ncomms11524.html">  Nature Communications 7, 11524 (2016)</a></h4>
+<small>
+Mentioned in <a href="http://phys.org/news/2016-05-glass-physics-ions.html ">Phys.org</a><br>
+Mentioned in <a href="https://www.sciencedaily.com/releases/2016/05/160527190413.htm">Science daily</a><br>
+Press release from <a href="https://www.icfo.eu/newsroom/news/article/3124">ICFO</a><br>
+Press release from <a href="http://www.ub.edu/web/ub/ca/menu_eines/noticies/2016/05/066.html">UB (in catalan) </a>, in 
+<a href="http://www.ub.edu/web/ub/es/menu_eines/noticies/2016/05/066.html?">in spanish </a> 
+</small>
+</td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/multis16.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Robustness of discrete semifluxons in closed Bose-Hubbard chains 
+<br>
+A. Gallemí, M. Guilleumas, J. Martorell, R. Mayol, A. Polls, B. Juliá-Díaz
+<br>
+	<a href="http://dx.doi.org/10.1088/1367-2630/18/7/075005">New J. Phys. 18 075005 (2016) </a></h4>
+<small>
+<a href="http://iopscience.iop.org/1367-2630/focus/Focus%20on%20Atomtronics-enabled%20Quantum%20Technologies"</a>Focus on Atomtronics-enabled Quantum Technologies
+</small>
+</td>
+</tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/axelnpa.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Next-to-leading order effective field theory ΛN --> NN potential in coordinate space 
+<br>
+Axel Perez Obiol, David R. Entem, Bruno Julia Diaz, Assumpta Parreño
+<br>
+	<a href="http://arxiv.org/abs/1603.07108">Nucl. Phys. A 954, 213 (2016).</a></h4>
+</td>
+</tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/pere1.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Quantum properties of a binary bosonic mixture in a double well
+<br>
+Pere Mujal, Bruno Julia Diaz, Artur Polls
+<br>
+	<a href="http://arxiv.org/abs/1602.01339">  Phys. Rev. A 93, 043619 (2016).</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/berr1.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Matter-wave recombiners for trapped Bose-Einstein condensates 
+<br>
+Tarik Berrada, Sandrine van Frank, Robert Bücker, Thorsten Schumm, Jean-François Schaff, Jörg Schmiedmayer, Bruno Julía-Díaz, Artur Polls
+
+<br>
+	<a href="http://arxiv.org/abs/1512.08127">Phys. Rev. A 93, 063620 (2016)</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2016</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Topological phases of lattice bosons with a dynamical gauge field<br>
+David Raventós, Tobias Graß, Bruno Juliá-Díaz, Luis Santos,  Maciej Lewenstein<br>
+	<a href="http://arxiv.org/abs/1511.08010">Phys. Rev. A93, 033605 (2016).</a></h4>
+</td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/qiuzam.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Hybrid synchronization in coupled ultracold atomic gases <br>
+Haibo Qiu, Roberta Zambrini, Artur Polls, Joan Martorell, Bruno Juliá-Díaz<br>
+	<a href="http://arxiv.org/abs/1507.04872"> Phys. Rev. A 92, 043619 (2015)  </a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/mus1.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Twist-and-Turn Spin Squeezing in Bose-Einstein Condensates <br>
+W. Muessel, H. Strobel, D. Linnemann, T. Zibold, B. Julia-Diaz, M. Oberthaler<br>
+	<a href="http://arxiv.org/abs/1507.02930">Phys. Rev. A 92, 023603 (2015).</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/meso.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Mesoscopic superpositions of Tonks-Girardeau gases and the 
+Bose-Fermi mapping <br>
+M. A. Garcia-March, A. Yuste-Roca, B. Julia-Diaz, and A. Polls<br>
+	<a href="http://arxiv.org/abs/1502.05899">Phys. Rev. A 92, 033621 (2015).</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2015</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Fragmented condensation in Bose-Hubbard trimers with tuneable tunnelling <br>
+A. Gallemi, M. Guilleumas, J. Martorell, R. Mayol, A. Polls, and B. Julia-Diaz<br>
+	<a href="http://iopscience.iop.org/1367-2630/17/7/073014/">New J. Phys. 17 (2015) 073014</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/dist.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Distinguishability, degeneracy and correlations in three harmonically trapped bosons in 1D  <br>
+M. A. Garcia-March, B. Julia-Diaz, G. E. Astrakharchik, J. Boronat, and A. Polls<br>
+	<a href="http://arxiv.org/abs/1410.7307">Phys. Rev. A 90, 063605 (2014).</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/njp14.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Quantum correlations and spatial localization in one-dimensional ultracold bosonic mixtures  <br>
+M. A. Garcia-March, B. Julia-Diaz, G. E. Astrakharchik, Th. Busch, J. Boronat, and A. Polls<br>
+	<a href="http://arxiv.org/abs/1405.7595">New J. of Phys. 16, 103004 (2014).</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/qiu14.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Measure synchronization in quantum many-body systems <br>
+H. Qiu, B. Julia-Diaz, M. A. Garcia March, A. Polls<br>
+	<a href="http://arxiv.org/abs/1312.4436"> Phys. Rev. A 90, 033603 (2014) </a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/so.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Josephson physics of spin-orbit-coupled elongated Bose-Einstein condensates  <br>
+M. A. Garcia-March, G. Mazzarella, L. Dell'Anna, B. Julia-Diaz, L. Salasnich, and A. Polls<br>
+	<a href="http://arxiv.org/abs/1401.7693">Phys. Rev. A 89, 063607 (2014).</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/topo.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Topological phases in small quantum Hall samples  <br>
+T. Grass, B. Julia-Diaz, M. Lewenstein<br>
+	<a href="http://arxiv.org/abs/1310.1817">Phys. Rev. A 86, 053629 (2014).</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2014</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Quantum Hall phases of two-component bosons <br>
+T. Grass, D. Raventos, M. Lewenstein, B. Julia-Diaz<br>
+	<a href="http://arxiv.org/abs/1310.3709">Phys. Rev. B 89, 045114 (2014).</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/abel1.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Shortcut to adiabaticity in internal Josephson junctions <br>
+A. Yuste, B. Julia-Diaz, E. Torrontegui ,J. G. Muga, J. Martorell, A. Polls<br>
+	<a href="http://arxiv.org/abs/1309.2491">Phys. Rev. A 88, 043647 (2013)</a></h4>
+</td>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/gott.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Quantum and thermal fluctuations in bosonic Josephson junctions <br>
+B. Julia-Diaz, A. D. Gottlieb, J. Martorell, A. Polls<br>
+	<a href="http://arxiv.org/abs/1307.4595">Phys. Rev. A 88, 033601 (2013).</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/shar.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Sharp crossover from composite fermionization to phase separation in mesoscopic mixtures of ultracold bosons <br>
+M. A. Garcia-March, B. Julia-Diaz, G.E. AStrakharchik, Th. Busch, J. Boronat, A. Polls<br>
+	<a href="http://arxiv.org/abs/1307.3510">Phys. Rev. A 88, 063604 (2013)</a></h4>
+</td>
+</tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/ions.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Quantum chaos in SU_3 models with trapped ion chains<br>
+T. Grass, B. Julia-Diaz, M. Lewenstein<br>
+<a href="http://arxiv.org/abs/1305.5141"> Phys. Rev. Lett. 111, 090404 (2013)</a></h4>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;">
+<!--<img src="images/caramel1.jpg" width=100px; border="0"-->
+</td>
+<td style="vertical-align: top;">
+<h4>
+One-loop contributions in the EFT for the Lambda N--&gt; NN transition <br>
+A. Perez-Obiol, D. R. Entem, B. Julia-Diaz, A. Parreno<br>
+<a href="http://arxiv.org/abs/1302.6955"> Phys. Rev. C87, 044614 (2013).</a>
+</h4>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;">
+<img src="images/plasmi.jpg" border="0" width="150px;">
+</td>
+      <td style="vertical-align: top;"><font style="font-style: italic;"><font size="-0">
+<h4>Engineering p-wave interactions in ultracold atoms using nanoplasmonic traps
+<br>
+      <span style="text-decoration: none;"><small> 
+B. Julia-Diaz, T. Grass, O. Dutta, D. E. Chang, M. Lewenstein</small> </span> <span style="text-decoration: none;"></span><span style=""></span><br>
+<a href="http://arxiv.org/abs/1302.0757"> Nature Communications 4, 2046 (2013) 
+</a>
+<br>
+<small>
+Mentioned in <a href="http://phys.org/news/2013-07-method-laughlin-states-atomic.html">Phys.org</a><br>
+Mentioned in <a href="http://www.sciencedaily.com/releases/2013/07/130703101023.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+sciencedaily+%28ScienceDaily%3A+Latest+Science+News%29">Science daily</a><br>
+Press release from <a href="http://www.icfo.eu/newsroom/news2.php?id_news=2013&subsection=home">ICFO</a><br>
+Press release from <a href="http://www.ub.edu/web/ub/ca/menu_eines/noticies/2013/07/011.html">UB (in catalan) </a>, in 
+<a href="http://www.ub.edu/web/ub/es/menu_eines/noticies/2013/07/011.html">in spanish </a> and in 
+ <a href="http://www.ub.edu/web/ub/en/menu_eines/noticies/2013/07/011.html">in english </a>
+</small>
+</h4>
+</td>
+    </tr>
+    <tr>    </tr>
+<tr>
+      <td style="vertical-align: top;">
+</td>
+      <td style="vertical-align: top;">
+<h4>Thermal spin fluctuations in spinor Bose-Einstein condensates <br>
+M. Mele-Messeguer, B. Julia-Diaz, A. Polls and L. Santos<br>
+<a href="http://arxiv.org/abs/1301.3406"> Phys. Rev. A 87, 033632 (2013)
+</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2013</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>Fractional Quantum Hall states of a Bose gas with spin-orbit coupling<br> 
+T. Grass, B. Julia-Diaz, M. Burrelo, M. Lewenstein<br>
+<a href="http://arxiv.org/abs/1210.8035">J. Phys. B: At. Mol. Opt. Phys. 46 134006 (2013) "Special issue on non-Abelian 
+gauge fields"
+</a></h4></td>
+</tr>
+
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/holes12.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>Quasihole dynamics as a detection tool for quantum Hall phases<br> 
+T. Grass, B. Julia-Diaz, M. Lewenstein<br>
+<a href="http://arxiv.org/abs/1210.2898">
+Phys. Rev. A 86, 053629 (2012)
+</a></h4>
+</td>
+</tr>
+
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/mmm12.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>Spin-driven spatial symmetry breaking of spinor condensates in a double-well
+<br> 
+M. Mele-Messeguer, S. Paganelli, B. Julia-Diaz, A. Sanpera, A. Polls<br>
+<a href="http://arxiv.org/abs/1209.1056"> Phys. Rev. A 86, 053626 (2012)</a></h4></td>
+</tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>Temperature effects on the quantum coherence of bosonic 
+Josephson junctions</b><br>
+B. Julia-Diaz, J. Martorell, A. Polls<br>
+In production, part of "Spontaneous Symmetry 
+Breaking, Self-Trapping, and Josephson Oscillations in Nonlinear 
+Systems", B.A. Malomed, ed. (Springer, Berlin, 2012) 
+</h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/short1.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>Fast generation of spin-squeezed states in bosonic Josephson 
+junctions<br> 
+B. Julia-Diaz, E. Torrontegui, J. Martorell, J. G. Muga, A. Polls<br>
+<a href="http://arxiv.org/abs/1207.1483">Phys. Rev. A 86, 063623 (2012)
+</a></h4></td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/ober1.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>Dynamic generation of spin-squeezed states in bosonic Josephson 
+junctions<br> 
+B. Julia-Diaz, T. Zibold, M. K. Oberthaler, M. Mele-Messeguer, J. Martorell, A. Polls<br>
+<a href="http://arxiv.org/abs/1205.6756">
+Phys. Rev. A  86, 023615 (2012) 
+</a></h4></td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/tob2.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Non-abelian spin singlet states of two-component Bose gases in artificial gauge fields
+      <span style="text-decoration: none;"> <br>
+T. Grass, B. Julia-Diaz, N. Barberan, M. Lewenstein<br>
+<a href="http://arxiv.org/abs/1204.5423">
+Phys. Rev. A 86, 021603(R) (2012) 
+</a></h4>
+</td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/tob1.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Fractional quantum Hall states of few bosonic atoms in artificial gauge fields<br>
+B. Julia-Diaz, T. Grass, N. Barberan, M. Lewenstein<br>
+<a href="http://arxiv.org/abs/1111.0798">
+New Journal of Physics, 14, 055003 (2012)<br>
+Focus on Bose Condensation Phenomena in Atomic and Solid State Physics
+</a></h4>
+</td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2012</h3>
+</td>
+      <td style="vertical-align: top;">
+<h4>Expansion of analytical, strongly correlated quantum 
+states into a many-body independent motion basis<br>
+B. Julia-Diaz, T. Grass<br>
+      <small><small><a href="http://www.sciencedirect.com/science/article/pii/S0010465511003791">Comput. Phys. Commun. 183, 737-745 (2012) 
+</a></h4>
+</td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/dal1.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;"><h4>Strongly correlated states of a cold atomic gas from geometric gauge fields<br>
+B. Julia-Diaz, D. Dagnino, KJ Gunter, T. Grass, N. Barberan, M. Lewenstein, J. Dalibard<br>
+<a href="http://arxiv.org/abs/1105.5021">
+Phys. Rev. A 84, 053605 (2011)
+</a></h4>
+</td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/axel.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;"><h4>Current constrains on the EFT for the $\Lambda N \to NN$ transition<br>
+A. Perez-Obiol, A. Parreno, B. Julia-Diaz<br>
+<a href="http://link.aps.org/doi/10.1103/PhysRevC.84.024606">Phys. Rev. C  84, 024606 (2011)
+</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/jlt1.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;"><h4>Improved variational approach to the two-site Bose-Hubbard model<br>
+M. Mele-Messeguer, B. Julia-Diaz, A. Polls<br>
+<a href="http://arxiv.org/abs/1108.4851">Journal of Low Temperature Physics 165, 5, 180 (2011)
+</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/qcwave.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;"><h4>QCWAVE:
+A Mathematica quantum computer simulation update<br>
+F. Tabakin, B. Julia-Diaz<br>
+<a href="http://dx.doi.org/10.1016/j.cpc.2011.04.010">
+Computer Physics Communications 182 (2011) 1693.
+</a></h4>
+</td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2011</h3>
+<b>
+Selected by <a href="http://scitation.aip.org/dbt/dbt.jsp?KEY=VIRT06&amp;Volume=3&amp;Issue=5">Virtual Journal of Atomic Quantum Fluids</a></b>
+</small>
+</font>
+      </td>
+      <td style="vertical-align: top;"><h4>Weakly linked binary mixtures of 87 Rb spinor BEC<br>
+M. Mele-Messeguer, B. Julia-Diaz, M. Guilleumas, A. Polls, A. Sanpera<br>
+<a href="http://iopscience.iop.org/1367-2630/13/3/033012/">
+New Journal of Physics, 
+13 033012 (2011) 
+</a></h4>
+</td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/bey.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Beyond standard two mode dynamics in bosonic josephson junctions<br>
+B. Julia-Diaz, J. Martorell,  M. Mele-Messeguer, A. Polls
+<br>
+<a href="http://arxiv.org/abs/1012.1023">Phys. Rev. A 82, 063626 (2010)
+</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+BECs on slightly asymmetric double-well potentials
+<br>
+B. Julia-Diaz, J. Martorell, A. Polls<br>
+<a href="http://arxiv.org/abs/1005.2203">Phys. Rev. A 81, 063625 (2010)
+</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<img src="images/dan.jpg" border="0" width="100px;">
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Macroscopic self trapping in BECs: analysis of a dynamical quantum phase transition
+<br>
+B. Julia-Diaz, D. Dagnino, 
+M. Lewenstein, J. Martorell, A. Polls<br>
+<a href="http://arxiv.org/abs/0912.1239"> Phys. Rev. A  81, 023615 (2010)
+</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2010</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Disentangling the dynamical origin of P11 Nucleon Resonances
+<br>
+N. Suzuki, B. Julia-Diaz, H. Kamano, 
+T.-S.H. Lee, A. Matsuyama, T. Sato<br>
+<a href="http://arxiv.org/abs/0909.1356"> Phys. Rev. Lett. 104, 042302 (2010)
+</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Double 
+and single pion photoproduction within a dynamical coupled-channels model<br>
+H. Kamano, B. Julia-Diaz, 
+T.-S.H. Lee, A. Matsuyama, T. Sato<br>
+<a href="http://arxiv.org/abs/0909.1129"> Phys. Rev. C 80, 065203
+(2009)</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+Selected by <a href="http://scitation.aip.org/dbt/dbt.jsp?KEY=VIRT06&amp;Volume=1&amp;Issue=5">Virtual Journal of Atomic Quantum Fluids</a>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Spinor
+BECs in a double-well: population transfer and Josephson oscillations<br>
+B. Julia-Diaz, M.
+Mele-Messeguer, M. Guilleumas, A. Polls<br>
+<a href="http://arxiv.org/abs/0909.0652"> 
+Phys. Rev. A 80, 043622 (2009)
+</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Dynamical
+coupled-channels analysis of p(e,e'pi)N reactions<br>
+B. Julia-Diaz, H. Kamano, T.-S.H Lee, A. Matsuyama, T. Sato, N. Suzuki <br>
+<a href="http://arxiv.org/abs/0904.1918"> Phys. Rev. C 80, 025207 (2009)</a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+Selected by <a href="http://scitation.aip.org/dbt/dbt.jsp?KEY=VIRT06&amp;Volume=1&amp;Issue=3">Virtual Journal of Atomic Quantum Fluids</a></h4>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Josephson Oscillations in binary mixtures of F=1 spinor BECS<br>
+B. Julia-Diaz, M. Guilleumas, M. Lewenstein, A. Polls, A. Sanpera<br>
+<a href="http://arxiv.org/abs/0902.3206">
+Phys. Rev. A 80, 023616 (2009)</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+QCMPI:
+A parallel environment for quantum computing <br>
+F. Tabakin, B. Julia-Diaz,<br>
+<a href="http://dx.doi.org/10.1016/j.cpc.2008.11.021">Computer
+Physics Communications 180 (2009) 948</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Dynamical
+coupled-channels study of pi N to pi pi N reactions<br>
+<span style="text-decoration: none;">H. Kamano, B. Julia-Diaz,
+T.-S.H.Lee, A. Matsuyama, T. Sato, <br>
+<a href="http://arxiv.org/abs/0807.2273">Phys. Rev. C 79, 025206 (2009)</a> </h4> </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2009</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+On the Methods for Constructing Meson-Baryon Reaction
+Models within Relativistic Quantum Field Theory<br>
+B. Julia-Diaz,
+H. Kamano,
+T.-S.H.Lee, A. Matsuyama, T. Sato, N. Suzuki<br>
+<a href="http://arxiv.org/abs/0902.3200">Chinese
+J. Physics 47, 2 (2009) 142</a> </h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Análisis
+Matemático de una variable<br>
+B. Julia-Diaz, Montserrat Guilleumas <br>
+<a href="http://www.publicacions.ub.es/ficha.asp?codi=07017">Texto
+Docente UB, 341, Universitat de Barcelona (2008)</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Coupled-channels
+study of the pion- p --&gt; eta n process<br>
+J. Durand, B. Julia-Diaz,
+T.-S. H. Lee, B. Saghai, T. Sato<br>
+<a href="http://link.aps.org/abstract/PRC/v78/e025204">Phys.
+Rev. C 78, 025204 (2008)</a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Spin mixing in colliding spinor condensates: Formation
+of an effective barrier
+M. Guilleumas, B. Julia-Diaz, J. Mur-Petit, A. Polls, <br>
+<a href="http://arxiv.org/abs/0811.3157">Europhysics Letters 84 (2008) 60005</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2008</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Dynamical
+coupled-channels effects in pion photoproduction <br>
+B. Julia-Diaz, T.-S.H. Lee,
+A. Matsuyama, T. Sato and L.C. Smith<b4>
+<a href="http://link.aps.org/abstract/PRC/v77/e045205">
+Phys. Rev. C 77, 045205 (2008)</a> </h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Measurement
+of the gamma p --&gt; K^+ Lambda Reaction at Backward Angles<br>
+K. Hicks, T. Mibe, M. Sumihama et al.<b4>
+<a href="http://arxiv.org/abs/0707.4412">Phys. Rev. C
+76, 042201(R) (2007)</a> </h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Dynamical
+coupled-channel model of pi N scattering in the W &lt;= 2-GeV
+nucleon resonance region.<br>
+B. Julia-Diaz, T.-S.H. Lee, A. Matsuyama, and T. Sato<br>
+<a href="http://arxiv.org/abs/0704.1615">Phys. Rev. C 76, 065201 (2007)</a> </h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2007</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Extraction
+and Interpretation of gamma N --&gt; Delta Form Factors within a
+Dynamical Model<br>
+B. Julia-Diaz, T.-S.H. Lee, T. Sato and
+L.C. Smith<br>
+<a href="http://arxiv.org/abs/nucl-th/0611033">Phys. Rev. C 75, 015205, (2007)</a> </h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+The
+role of qqqq\bar{q} components in the nucleon and the N(1440) resonance<br>
+B. Julia-Diaz, D. O. Riska<br>
+<a href="http://arxiv.org/abs/nucl-th/0609064">Nucl. Phys. A780, 175 (2006)</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Dynamical
+coupled-channel approach to hadronic and electromagnetic production of
+kaon-hyperon on the proton<br>
+B. Julia-Diaz, B. Saghai, T.-S.H. Lee, F. Tabakin<br>
+<a href="http://arxiv.org/abs/nucl-th/0601053">Physical
+Review C 73, 055204 (2006)</a> </h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2006</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Qdensity:
+a Mathematica Quantum Computer Simulation<br>
+Bruno Julia-Diaz, Joseph M. Burdis and Frank Tabakin<br>
+<a href="http://arxiv.org/abs/quant-ph/0508101">Computer
+Physics Comm 174 (2006) 914; quant-ph/0508101</a><br>
+      <a href="http://library.wolfram.com/infocenter/MathSource/5715/">Mathematica
+Repository</a><br>
+QDENSITY <a href="http://www.pitt.edu/%7Etabakin/QDENSITY/">webpage</a>
+ </h4>     </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>	
+Electroweak
+properties of the <img src="images/pi.html" border="0">, K and K*(892)
+in the three forms of relativistic kinematics<br>
+Jun He, B. Juliá-Díaz and Yu-bing Dong<br>
+<a href="http://arxiv.org/abs/hep-ph/0503294">Eur. Phys. Jour. A 24, 3, 411(2005)</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+D-state
+configurations in the electromagnetic form
+factors of the nucleon and the Delta(1232) resonance<br>
+B. Juliá-Díaz, and D. O. Riska<br>
+<a href="http://arxiv.org/abs/nucl-th/0411012"><small>Nucl.
+Phys. A757:441, (2005)</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Baryon
+Magnetic Moments of Relativistic
+Quark Models<br>
+B. Juliá-Díaz and D. O. Riska<br>
+<a href="http://arxiv.org/abs/hep-ph/0401096">Nuclear Physics A 739, 69-88 (2005)</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Nuclei
+of double-charm hyperons<br>
+B. Juliá-Díaz and D. O. Riska<br>
+<a href="http://arxiv.org/abs/nucl-th/0405061">Nucl. Phys. A755 (2005) 431-434</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2005</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Bound States of Heavy Flavor Hyperons<br>
+F. Frömel, B. Juliá-Díaz and D. O. Riska<br>
+<a href="http://arxiv.org/abs/nucl-th/0410034">Nuclear Physics A 750, 337 (2005)</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Electromagnetic
+form factor of pion and rho
+in the three forms of relativistic kinematics<br>
+Jun He, B. Juliá-Díaz and Yu-bing Dong<br>
+<a href="http://arxiv.org/abs/hep-ph/0407043">Phys. Lett. B 602, 212 (2004)</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Axial
+Transition Form Factors and Pion Decay of Baryon Resonances<br>
+B. Juliá-Díaz, D. O. Riska and F. Coester<br>
+<a href="http://arxiv.org/abs/nucl-th/0406015">Phys. Rev. C 70, 045204 (2004)</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2004</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Baryon
+Form-Factors of Relativistic
+Constituent-Quark Models<br>
+B. Juliá-Díaz, D. O. Riska and F. Coester<br>      
+<a href="http://arxiv.org/abs/hep-ph/0312169">Physical Review C 69, 035212 (2004)</a>
+and Erratum: 
+<a href="http://link.aps.org/abstract/PRC/v75/e069902"> ibid
+75, 069902 (2007)</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2003</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Baryon-Baryon
+interactions in a chiral
+constituent quark model <br>
+B. Juliá-Díaz, PhD Thesis, Universidad de Salamanca <br>
+<a href="tespdf.pdf"> PDF(2003)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="http://www.mcu.es/cgi-bin/TESEO/BRSCGI?CMD=VERDOC&amp;BASE=TSEO&amp;DOCN=000095691">From
+the TESEO database</a><br>
+Premio extraordinario de doctorado</h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Deuteron NN*(1440) components from a chiral
+quark model <br>
+B. Juliá-Díaz, D. R. Entem, A. Valcarce, F. Fernández <br>
+<a href="http://xxx.unizar.es/abs/nucl-th/0208059">Physical
+Review C 66, 047002 (2002)</a></h4>
+</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Microscopic
+NN -&gt; NN*(1440) transition
+potential: Determination of pi N N*(1440) and sigma NN*(1440) coupling
+constants<br>
+B. Juliá-Díaz, A. Valcarce, P. González, F.
+Fernández<br>
+<a href="http://xxx.unizar.es/abs/nucl-th/0208033">Physical Review C 66, 024005 (2002)</a></h4></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+<h3>2002</h3>
+      </td>
+      <td style="vertical-align: top;">
+<h4>
+Quark-model
+based study of the triton
+binding energy<br>
+B. Juliá-Díaz, F. Fernández, A. Valcarce, J.
+Haidenbauer<br>
+      <a href="http://xxx.unizar.es/abs/hep-ph/0112244">Physical
+Review C 65, 034001 (2002)</a></h4></td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1" valign="top">
+<h3>2001</h3>
+      </td>
+      <td colspan="1" rowspan="1" style="vertical-align: top;"> 
+<h4>
+Microscopic
+derivation of a NN*(1440)
+potential<br>
+B. Juliá-Díaz, F. Fernández, P. González and A. Valcarce<br>
+<a href="http://web.usal.es/%7Egfn/papers/ps/prc63.24006.01.ps.gz">Physical
+Review C 63, 024006 (2001)</a><h4></td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
+
+		</div>
+	</div>
+
+	<div id="footer" class="shadow">
+		<p>© Bruno Julia-Diaz 2013</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+	$(window).load(function() {
+		$('#slider').nivoSlider();
+	});
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46726250-1', 'ub.es');
+  ga('send', 'pageview');
+
+</script>
+
+
+</body></html>
